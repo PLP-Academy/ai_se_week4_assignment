@@ -14,7 +14,7 @@ AI_SE_week4_assignment/
 │   ├── task2-automated-testing/ # Selenium WebDriver tests
 │   └── task3-predictive-analytics/ # ML breast cancer classification
 ├── part3-ethical/             # Real-world bias assessment
-├── bonus-task/               # CodeSage AI innovation + presentation
+├── docs/                     # GitHub Pages presentation + proposal
 ├── assets/                   # Generated visualizations
 ├── models/                   # Trained ML models
 └── iuss-23-24-automatic-diagnosis-breast-cancer/ # Dataset (565 images)
@@ -128,7 +128,8 @@ source venv/bin/activate  # macOS/Linux
 pip install -r requirements.txt
 
 # 3. Run presentation
-# Open bonus-task/index.html in browser for interactive presentation
+# Open docs/index.html in browser for interactive presentation
+# Or visit GitHub Pages: https://[username].github.io/AI_SE_week4_assignment/
 ```
 
 ## 📈 Results Summary

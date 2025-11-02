@@ -215,7 +215,7 @@ AI_SE_week4_assignment/
 ├── part1-theoretical/           # Theoretical analysis (COMPLETED)
 ├── part2-practical/            # All 3 tasks implemented (COMPLETED)
 ├── part3-ethical/              # Real-world impact analysis (COMPLETED)
-├── bonus-task/                 # CodeSage AI proposal (COMPLETED)
+├── docs/                       # GitHub Pages presentation + proposal (COMPLETED)
 ├── assets/                     # Generated visualizations (3 images)
 ├── models/                     # Trained ML models (saved)
 └── FINAL_PRESENTATION_SUMMARY.md  # This comprehensive summary
